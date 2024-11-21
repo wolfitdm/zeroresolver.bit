@@ -48,7 +48,7 @@ with open(file) as f:
          if not v.startswith("1") or vlen <= 3 or vlen > 40:
             continue
          
-         if op_coin("name_new", v):
+         if op_coin("name_firstupdate", v):
             new_array[v] = new_dict[v]
   
      with open('keys.json', 'w') as fe:
