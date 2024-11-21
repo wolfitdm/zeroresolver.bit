@@ -1,0 +1,61 @@
+{
+ "address": "1E97TpiDiCj1WGhZWxoKjBV9KkVty1PFsq",
+ "description": "Namecoin address registry",
+ "files": {
+  "css/all.css": {
+   "sha512": "66b3c633dadc6d3d59647cc1282c704937db4021c69a0ca99727ffbd9a9da6a1",
+   "size": 70286
+  },
+  "data/0/names.json": {
+   "sha512": "38689dad6cc8ec272179e4c1358c81dd54d89275f57d1809558e1c399197bbd5",
+   "size": 369342
+  },
+  "data/1/names.json": {
+   "sha512": "fa9391060fac50befd357fafa0b330b0e8937ee2691c818fc5ab5667e1e72d75",
+   "size": 443184
+  },
+  "data/merge.bat": {
+   "sha512": "bbf45c80683650df51ecb56479adb936c25de55669ccb1d1e1247fa0dd142a34",
+   "size": 27
+  },
+  "data/merge.py": {
+   "sha512": "b90d054026fd5d9ce29a3d8e9f6177f0a25390463bc70e8571b75758c96fa609",
+   "size": 283
+  },
+  "data/names.html": {
+   "sha512": "da928a829e1c47974e46f905121951d98fa1f6458785dae2f9224fc78dfd4d3b",
+   "size": 479
+  },
+  "data/names.json": {
+   "sha512": "f3a47ff1e3a6a962deef7cbc12a7295c8db828d5bae4e3bbe7a1d4cec2b49bd3",
+   "size": 432507
+  },
+  "data/names.zip": {
+   "sha512": "6a800fe552e65fc7d1c365d3885e5f41058453e561e9f1b3517f65c04a8c96b5",
+   "size": 101499
+  },
+  "img/imachig.png": {
+   "sha512": "1d47bfa586a8208376c99d2e7d035b50e5efd4997587d5bd72b4b1bce7a0f5b6",
+   "size": 66808
+  },
+  "index.html": {
+   "sha512": "9dac774a9a038779294d8c1fae20127d8b9ef4e8d5924bd9815b8a13becce0d1",
+   "size": 2558
+  },
+  "js/all.js": {
+   "sha512": "c1d7266558e00f85ab51fb478240578c08c9559281841ab7979ccec2a3bf899a",
+   "size": 92399
+  }
+ },
+ "ignore": "(js|css)/(?!all.(js|css))",
+ "inner_path": "content.json",
+ "modified": 1732184584,
+ "reverse_domain": "zeroresolver.bit",
+ "signers_sign": "G7JSrm062TovBau/H5GuMzqhk1Qfh0BlaRJyOLCVguK8Xj+eThGPIRdGUe92PzCvMVv0YvX4nnsJwl8hx3ZLrT8=",
+ "signs": {
+  "1E97TpiDiCj1WGhZWxoKjBV9KkVty1PFsq": "G6D6KZdayW6vbG9o0RHyEIRWhyzCTif1OTuQCo968cliODVgCgX9NEMJS6J15QnaYJcNVy9ljt5CQmdZxxisqfo="
+ },
+ "signs_required": 1,
+ "title": "ZeroName",
+ "zeronet_version": "0.7.1"
+}
