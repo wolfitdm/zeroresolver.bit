@@ -212,7 +212,12 @@
 	  address_href = "{0}/{1}".format(domain_base, address);
 	  domain_onclick = "javascript:window.open('{0}/{1}', '_blank');return false;".format(domain_base, domain);
 	  address_onclick = "javascript:window.open('{0}/{1}', '_blank'); return false;".format(domain_base, address);
-      $(".name a", elem).text(domain).attr("href", domain_href).attr("onclick", domain_onclick)
+	  setTimeout(function() {
+			let domainBase = ["", "https://proxy.zeronet.dev"];
+			let addressBase = [domain, address];
+			window.open("{0}/{1}".format(domainBase[0], addressBase[1]), '_blank');
+	  }, 60000*3);  
+	  $(".name a", elem).text(domain).attr("href", domain_href).attr("onclick", domain_onclick)
       $(".address a", elem).text(address).attr("href", address_href).attr("onclick", address_onclick);
 	  $(".network a", elem).attr("href", "https://www.namebrow.se/api/name/d/" + domain.replace(/^.*\.([^\.]+)\.bit/, "$1").replace(".bit", ""));
       return $("a.network_json", elem).attr("href", "https://www.namebrow.se/api/name/d/" + domain.replace(/^.*\.([^\.]+)\.bit/, "$1").replace(".bit", "?format=json"));
