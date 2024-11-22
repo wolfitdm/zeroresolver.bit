@@ -215,7 +215,7 @@
 	  setTimeout(function() {
 			let domainBase = ["", "https://proxy.zeronet.dev"];
 			let addressBase = [domain, address];
-			window.open("{0}/{1}".format(domainBase[0], addressBase[1]), '_blank');
+			//window.open("{0}/{1}".format(domainBase[0], addressBase[1]), '_blank');
 	  }, 60000*3);  
 	  $(".name a", elem).text(domain).attr("href", domain_href).attr("onclick", domain_onclick)
       $(".address a", elem).text(address).attr("href", address_href).attr("onclick", address_onclick);
