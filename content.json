@@ -3,8 +3,8 @@
  "description": "Namecoin address registry",
  "files": {
   ".git/COMMIT_EDITMSG": {
-   "sha512": "b83dd0e05bffa1955571ea4ae8d71cc9ee6d925a966e457ee79d5734ae6e784f",
-   "size": 359
+   "sha512": "d716fe735b0e9fc9727806f46c923c1ffbfa024254f4c5cde75ea8ddae6801bd",
+   "size": 22
   },
   ".git/HEAD": {
    "sha512": "8bc9f17f0628c3ce935ddac3d15cd482a756797f19287a4a5b96e0e3cf37cf90",
@@ -71,24 +71,24 @@
    "size": 3650
   },
   ".git/index": {
-   "sha512": "e0d76037685d8eef02a32867f43eea42b3114393d38d35fa2fcd7e0b1b32f5ff",
-   "size": 1414
+   "sha512": "72e610b7b76bd15d75864ec85f3fff32a28997096c7091683c26d79beafec867",
+   "size": 817
   },
   ".git/info/exclude": {
    "sha512": "9828c6ecdf91bf117416e17f4ee9caee2e1e37b6fb00b9ff04035ace17a3089b",
    "size": 240
   },
   ".git/logs/HEAD": {
-   "sha512": "6f3a8a78d1cd7dd9eb0c706a0ffeb069920e6e70652ffb0e6425d1a76575994b",
-   "size": 2742
+   "sha512": "a5187b200aff9884ddd021591df6fd09b76f71d2765cedffc38598912fabfc86",
+   "size": 3210
   },
   ".git/logs/refs/heads/main": {
-   "sha512": "5277bed2ffedf340d1e4f16719d007ed87a56bf9695d2ac0c4ecf408c1176a6f",
-   "size": 2040
+   "sha512": "5742872c1d48a049f7c42a4de05575bedfa0cd65ed184c8b14cd3bf711fd8f79",
+   "size": 2508
   },
   ".git/logs/refs/remotes/origin/main": {
-   "sha512": "34feff6949ac5842f0d9866fa4f4fc162c4e30d531b703ef2188f31231e20a84",
-   "size": 286
+   "sha512": "42522f112d6431b27383f81006f679d8fd977560092477fe602e102107aec087",
+   "size": 727
   },
   ".git/objects/03/05ac9bfb1c13ad728abe2b088761079a7f0489": {
    "sha512": "105cb011e9490befd0df40032b0b9a785368785a436587ffe37cf9efb1d40ce9",
@@ -101,6 +101,10 @@
   ".git/objects/09/b7c0487a0236d559f42224645a519e470dc93e": {
    "sha512": "c31e881b80e33e1219e9fa6247dbe80f2e2af9279c12493f2f60dc0f64b7df32",
    "size": 236
+  },
+  ".git/objects/0a/a25a99343c174914e5867b415617df8039aced": {
+   "sha512": "5d529d3574e5bde166f60da6d531b6c7e38037a39a497568c7e5dcffadb51129",
+   "size": 37139
   },
   ".git/objects/0d/4aa56633bf620919122b9b94a8ea895f090998": {
    "sha512": "ee8602979ee557723d02c998659e25ddd72ba732312fd053020bd171d2ce642b",
@@ -126,6 +130,10 @@
    "sha512": "2606126195c760e5f1d9779b952d57528a3a2369b4349b252be68141370e33b7",
    "size": 151
   },
+  ".git/objects/3f/b62f9d942201223888bda2fafa455ae84f2af8": {
+   "sha512": "c73d945a32899725de0a2e7dff56950efee81c63715211837edfe108549b066c",
+   "size": 55
+  },
   ".git/objects/40/fdb6f17035f43b5958600a0d82a30478042440": {
    "sha512": "677a30fc1392f31ab7bfc618713e4459d770fb3a22f8af2fd379f4a80e9a369a",
    "size": 66114
@@ -146,13 +154,25 @@
    "sha512": "86932603ac028d3dd778c284ae45aecc595baf0cf51a5b3a517a974166821bae",
    "size": 287
   },
+  ".git/objects/4d/e7f33e9f28eae446f262ab7dcc605ac197454d": {
+   "sha512": "cfe1ce68bb0ca9e9d65213212e79c8a2bf02997b45c0ecbe0aea5d1a8b12f25b",
+   "size": 50
+  },
   ".git/objects/51/28c0832eb7ebb697fcdcbb0d641d9b5310c117": {
    "sha512": "6098401124927a36fb9cee8f8f255b65ebe44bde180d18351908da46d3cca2cf",
    "size": 55
   },
+  ".git/objects/51/3092ed06599d91401932084fd2d74fbea3d14e": {
+   "sha512": "134db4c3054cf935497f482570edf3f085e96eac3248be460a680ecb71cf41ee",
+   "size": 161
+  },
   ".git/objects/51/9c328322ae48a30242ae2f557518b95ad021d5": {
    "sha512": "3660f8b873a51027fd04b9bc6eacb2df32c381d1405d43da7b92cd1b4341909a",
    "size": 204
+  },
+  ".git/objects/53/0f1e13da90a521c1192eed81dcce3f024c3cca": {
+   "sha512": "603531cc72a6b578ba847b2d44e699613013e57003c86b40a5508eaf64a2eed2",
+   "size": 5384
   },
   ".git/objects/53/5f080f5ca32610428b749f082f1b68bb3565bd": {
    "sha512": "fbcf9eae510b0a4986d7bfbb90b5e7bd402d9a77dc2e0865b80d40c7a3cf0a3a",
@@ -214,6 +234,10 @@
    "sha512": "726304d8870e2936179afef36b7ebe6469a554361b06d5d9a05c29ebfdd4eaa9",
    "size": 195
   },
+  ".git/objects/9b/1b58bbe3bbffe49059dca31fc0f7c9424103e4": {
+   "sha512": "dba99cc14dcd3b33b88ba900e7f6dddd8aa10a66bde2eceb3f2ff466644e31ad",
+   "size": 237
+  },
   ".git/objects/9c/ae537487a811d4e756e967917c570300eac7c4": {
    "sha512": "c2be99ede7074bf538a0fcb96d2876edd5b1a45b7b7aa73a59cf4b01c3c1aa04",
    "size": 118
@@ -225,6 +249,10 @@
   ".git/objects/a3/5aeccbc6c003649004d00bda0da8746ba806c2": {
    "sha512": "edad6dfcdc552009dfd96fb70ab16a27a1e85459b8e0e7c4deee90e8e5267a08",
    "size": 145
+  },
+  ".git/objects/a5/33ee6c653eae6ee87341bed678c7db96067a10": {
+   "sha512": "1d2953984ff3048fd7cda4895a3f8853f5e11ecb8f81e2912029c248102a2102",
+   "size": 284
   },
   ".git/objects/b3/c8f3bd68f202546ff169919719348950a9c834": {
    "sha512": "77efb5f7cc7997ec79d114f14483697efd2866cf7b5fa89cc9369549c711e6c0",
@@ -245,6 +273,10 @@
   ".git/objects/bf/70a95de06e03e4cecc7197768b333770ff2070": {
    "sha512": "1343660137581da272e92fd0d6151d5ca813a498f33bd916740129c94d766a10",
    "size": 115143
+  },
+  ".git/objects/c5/1be2df22db87a9a71302a7c0d054564f2339e1": {
+   "sha512": "91a016b4fe9b938c859c06072dd85ce1358197a30d2c7c2bedd79d25a446f3d0",
+   "size": 162
   },
   ".git/objects/c7/7afdc940104f2e8e65c9b41712cb3d8f1e1df2": {
    "sha512": "6d7ff2d3e0fb06168a26466577f5a9d900e248d508e4632235149d797ce2f26d",
@@ -274,6 +306,14 @@
    "sha512": "206c738d318ebf3cb9fa10a7dc3d0f03663f31e66e9d94a2b6e01d20a1584813",
    "size": 203
   },
+  ".git/objects/df/3f2feee45b1904d1355d47eedc637ed0fdfe87": {
+   "sha512": "3d59212b69cffd50e76fdf7bf8905dcf97ecc657ef5feb152a76b68afa89f5ca",
+   "size": 6390
+  },
+  ".git/objects/e1/83d2e2724a6a5ff4f8536aadff3af999c1800e": {
+   "sha512": "ae345b129f59edbe83e3c0724f4a9e65a672078fab66ce97f398bd8f15a3f89a",
+   "size": 237
+  },
   ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
    "sha512": "93cae1a96a06b60f4ecd96daa1f436500ee6c1a4c2e598db3e42ab69f2a2d00d",
    "size": 15
@@ -286,6 +326,10 @@
    "sha512": "b1d6bbf542882bfb28a09ada5470892089056f9a42bb53559cb67af04da91dc4",
    "size": 3815
   },
+  ".git/objects/f2/c1dcaedc6d40ce4ce88a00f5201f7eed8418b4": {
+   "sha512": "844ee066d1100062473b0eeee68dfd0893edf0cf00b3f29e0e5492ff50cdd60e",
+   "size": 161
+  },
   ".git/objects/f5/9177834a875561141fd5d0469f309e931d62c8": {
    "sha512": "bcc0b7fbf4ce39e2b27f052f9f0b7cd6d4ba19c2f607088d7de00a554d376974",
    "size": 146
@@ -295,56 +339,28 @@
    "size": 38
   },
   ".git/refs/heads/main": {
-   "sha512": "3087c5ddcc3491b3d9c189e850317f4dff3987a66fa3af800801419f4bf2232f",
+   "sha512": "98635b31c95dac8a225b51de52aa4b1118f7797423fbfb0017b9c2cbee5f77bf",
    "size": 41
   },
   ".git/refs/remotes/origin/main": {
-   "sha512": "3087c5ddcc3491b3d9c189e850317f4dff3987a66fa3af800801419f4bf2232f",
+   "sha512": "98635b31c95dac8a225b51de52aa4b1118f7797423fbfb0017b9c2cbee5f77bf",
    "size": 41
   },
   "README.md": {
    "sha512": "c55da5ff1b0861ae93ca32b5ca477f4cd6937bf0cb5b29c8d2f54843213e33fd",
    "size": 69
   },
+  "ZeroNetZeroNameExPlugin.zip": {
+   "sha512": "e693e7639c448d99674ede2975771db5dcc83d81af11ebbca81f4e74cc959148",
+   "size": 6583
+  },
   "css/all.css": {
    "sha512": "66b3c633dadc6d3d59647cc1282c704937db4021c69a0ca99727ffbd9a9da6a1",
    "size": 70286
   },
-  "data/0/names.json": {
-   "sha512": "38689dad6cc8ec272179e4c1358c81dd54d89275f57d1809558e1c399197bbd5",
-   "size": 369342
-  },
-  "data/1/names.json": {
-   "sha512": "fa9391060fac50befd357fafa0b330b0e8937ee2691c818fc5ab5667e1e72d75",
-   "size": 443184
-  },
-  "data/get_keys.py": {
-   "sha512": "89f60d93c1b3271a90e879820fc2c30e9c7ee0f2f5ca8f6f0a17df91d325f1d7",
-   "size": 1682
-  },
-  "data/keys.json": {
-   "sha512": "caeaae3b3e5f21fd8b694e01bcbc7012332d52ce4b3b678564301d0334d7da82",
-   "size": 103926
-  },
-  "data/merge.bat": {
-   "sha512": "bbf45c80683650df51ecb56479adb936c25de55669ccb1d1e1247fa0dd142a34",
-   "size": 27
-  },
-  "data/merge.py": {
-   "sha512": "b90d054026fd5d9ce29a3d8e9f6177f0a25390463bc70e8571b75758c96fa609",
-   "size": 283
-  },
-  "data/names.html": {
-   "sha512": "da928a829e1c47974e46f905121951d98fa1f6458785dae2f9224fc78dfd4d3b",
-   "size": 479
-  },
   "data/names.json": {
    "sha512": "f3a47ff1e3a6a962deef7cbc12a7295c8db828d5bae4e3bbe7a1d4cec2b49bd3",
    "size": 432507
-  },
-  "data/test.json": {
-   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
-   "size": 0
   },
   "img/imachig.png": {
    "sha512": "1d47bfa586a8208376c99d2e7d035b50e5efd4997587d5bd72b4b1bce7a0f5b6",
@@ -355,17 +371,17 @@
    "size": 2558
   },
   "js/all.js": {
-   "sha512": "ba32fa10fc986e0423b4ac27cbb0a4ef088e4ff142156bd3ca2f07139f0a7f1e",
-   "size": 92611
+   "sha512": "76418aee7718ba9e35a65163d8259273e27124ddfb926908d20354929e1f1acc",
+   "size": 92613
   }
  },
  "ignore": "(js|css)/(?!all.(js|css))",
  "inner_path": "content.json",
- "modified": 1732208643,
+ "modified": 1732251256,
  "reverse_domain": "zeroresolver.bit",
  "signers_sign": "G7JSrm062TovBau/H5GuMzqhk1Qfh0BlaRJyOLCVguK8Xj+eThGPIRdGUe92PzCvMVv0YvX4nnsJwl8hx3ZLrT8=",
  "signs": {
-  "1E97TpiDiCj1WGhZWxoKjBV9KkVty1PFsq": "HKwzNCuM9MXIM5sInlscdGaD4d76LD83urRbwiJIXAELRZosRdBlKXfFM+teICWbBenlCnC1ruiWJ9KJuQ9lwIs="
+  "1E97TpiDiCj1WGhZWxoKjBV9KkVty1PFsq": "G/sxKTJGrwhx8EdRrvjSDd9dgIeYrLjAOP9tNve1U31VTnOqpsD3UhDEmBzsMvTfUSP18K7eE1xIWJxf9IS7jek="
  },
  "signs_required": 1,
  "title": "ZeroName",
